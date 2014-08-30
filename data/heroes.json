@@ -1,0 +1,46 @@
+[
+  {
+    "name": "El chapulin colorado",
+    "img": "elchapulincolorado.jpg",
+    "realname": "Roberto Gomez",
+    "attrs" : {
+        "intelligence": 10,
+        "strenght": 10,
+        "speed": 10,
+        "defence": 10
+    }
+  },
+  {
+    "name": "Batman",
+    "img": "batman.jpg",
+    "realname": "Bruce Wayne",
+    "attrs" : {
+        "intelligence": 10,
+        "strenght": 4,
+        "speed": 3,
+        "defence": 8
+    }
+  },
+  {
+    "name": "Superman",
+    "img": "superman.jpg",
+    "realname": "Clark  Kent",
+    "attrs" : {
+        "intelligence": 6,
+        "strenght": 10,
+        "speed": 8,
+        "defence": 10
+    }
+  },
+  {
+    "name": "Wonder woman",
+    "img": "wonderwoman.jpg",
+    "realname": "Diana Temiscira",
+    "attrs" : {
+        "intelligence": 4,
+        "strenght": 9,
+        "speed": 7,
+        "defence": 3
+    }
+  }
+]
